@@ -1,6 +1,4 @@
 # Data Science In Python
-## Module lead
-Dr Justin Whalley (jpw@well.ox.ac.uk) 
 
 ## Overview
 
