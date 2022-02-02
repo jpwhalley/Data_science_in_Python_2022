@@ -21,3 +21,7 @@ So we have a dataset for 912 samples (from 228 donors for 4 conditions each), ge
 How to understand this dataset?
 
 No doubt there is high redundancy amongst the samples, so reducing them from ~15000 to a smaller number could be really helpful into interpreting the dataset (in this case for projecting the gene expression and genes into one value for each sample for each principal component).
+
+### Clustering
+
+From the gene expression data, we know that we have 4 groups. Using a k-means clustering algorithm on the PCA data; can we recover these groups?
