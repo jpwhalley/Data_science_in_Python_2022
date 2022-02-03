@@ -25,3 +25,11 @@ By the end of the module, students will be able to:
 + Day 3: Large, multidimensional datasets
 + Day 4: Classification of data using neural networks
 
+Prerequisites
+-------------
+
+Please install the following suggested software:
+------------------------------------------------
+
+*   [Anaconda3 (for python3 notebooks) (Links to an external site.)](https://www.anaconda.com/download/) We will mainly be using python notebooks for this module, with specific modules to install for each day, which you can see in each specific 'To do before the start' page for that day.
+
