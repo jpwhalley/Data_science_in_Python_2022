@@ -29,7 +29,13 @@ From the gene expression data, we know that we have 4 groups. Using a k-means cl
 Prerequisites
 -------------
 
-For this session, all the packages should be installed with anaconda.
+For this session, could you install the following package:
+
+*   adjustText: [https://adjusttext.readthedocs.io/en/latest/](https://adjusttext.readthedocs.io/en/latest/) I usually use pip or conda to install packages: 
+    *   pip install selenium
+        
+        or
+    *   `conda install -c conda-forge adjusttext`
 
 * * *
 
