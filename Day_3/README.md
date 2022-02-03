@@ -25,3 +25,17 @@ No doubt there is high redundancy amongst the samples, so reducing them from ~15
 ### Clustering
 
 From the gene expression data, we know that we have 4 groups. Using a k-means clustering algorithm on the PCA data; can we recover these groups?
+
+Prerequisites
+-------------
+
+For this session, all the packages should be installed with anaconda.
+
+* * *
+
+Recommended tutorial and reading
+--------------------------------
+
+*   Nice explanation of PCA can be found [here](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues).
+*   And k-means clustering [here](https://realpython.com/k-means-clustering-python/).
+*   The gene expression dataset we are using today and for Day 4 comes from this [paper](https://www.science.org/doi/10.1126/science.1246949).

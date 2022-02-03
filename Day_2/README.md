@@ -9,3 +9,18 @@ On a small dataset we will go through the typical pipeline of a real Machine Lea
 At the end of the session, we might have a look at the other useful functions integrated into scikit-learn
 
 With thanks to Irina Chelysheva
+
+Prerequisites
+-------------
+
+For this session, you should already have the needed pacakges installed.
+
+* * *
+
+Optional tutorial and reading
+-----------------------------
+
+Slightly out of the scope for this course, but there are various ways to optimise your code. Especially important for very large datasets and computationally intensive task. Numba can work very nicely within Python to get similar speeds to Fortran and C++:
+
+*   A quick guide to numba can be found [here](https://numba.readthedocs.io/en/stable/user/5minguide.html).
+*   A nice article on time (and energy impact) to do computational tasks can be found [here](https://www.nature.com/articles/s41550-021-01342-y.epdf?sharing_token=D6WDBKpfOOcWHERGZz4AbtRgN0jAjWel9jnR3ZoTv0Pc7q-oiK1_CxsdnLnqzBdV9-Xj6CQQ98qvVv9fAgz7ySxWpoPJr5C4XgOXuetbs26fddzM8jDAaP_RUyzuPDdOG_uCV2N67FsOGrLM5IQku9K2si3Kw7cSPET-ES0qGQc%3D).
