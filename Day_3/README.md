@@ -32,7 +32,7 @@ Prerequisites
 For this session, could you install the following package:
 
 *   adjustText: [https://adjusttext.readthedocs.io/en/latest/](https://adjusttext.readthedocs.io/en/latest/) I usually use pip or conda to install packages: 
-    *   pip install selenium
+    *       pip install selenium
         
         or
     *       conda install -c conda-forge adjusttext
