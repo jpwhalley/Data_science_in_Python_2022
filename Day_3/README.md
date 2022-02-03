@@ -35,7 +35,8 @@ For this session, could you install the following package:
     *   pip install selenium
         
         or
-    *   `conda install -c conda-forge adjusttext`
+    *       conda install -c conda-forge adjusttext
+        
 
 * * *
 
