@@ -41,8 +41,6 @@ or
 *   *   conda install h5py
         
 
-* * *
-
 Recommended tutorial and reading
 --------------------------------
 
