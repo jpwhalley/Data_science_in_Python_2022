@@ -40,8 +40,6 @@ browser.get("[https://www.literaryclock.com](https://www.literaryclock.com/)/“
 
 you should get a pop-up window of the [Literary Clock website](http://www.literaryclock.com/).
 
-* * *
-
 Recommended tutorial and reading
 --------------------------------
 
