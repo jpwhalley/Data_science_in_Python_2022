@@ -38,8 +38,6 @@ For this session, could you install the following package:
     *       conda install -c conda-forge adjusttext
         
 
-* * *
-
 Recommended tutorial and reading
 --------------------------------
 
