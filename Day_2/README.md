@@ -13,7 +13,14 @@ With thanks to Irina Chelysheva
 Prerequisites
 -------------
 
-For this session, you should already have the needed pacakges installed.
+For this session, you should already have the needed packages installed.
+
+* * *
+
+Recommended tutorial and reading
+--------------------------------
+
+*   Today we will be learning about classification using machine learning. However, it is a very similar process to doing regression in Python. Here is a [nice tutorial on regression](https://adataanalyst.com/scikit-learn/regression-scikit-learn/) if you would like to do this instead of classification.
 
 * * *
 
